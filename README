@@ -1,10 +1,9 @@
-This project is my first dive into model quantization, inference
-benchmarking, and building UIs with Gradio
+This project is my first dive into model quantization, inference benchmarking and building UIs with Gradio
 
 It demonstrates:
     - Loading and running the following pre-trained LLM: `Qwen1.5-1.8B`
     - Quantizing using PyTorch
     - Comparing latency between quantized and non-quantized models
-    - Enabling real-time testing throught the use of a Gradio UI
+    - Enabling real-time testing through the use of a Gradio UI
 
 To launch the Gradio Demo, run `python app.py` in the root directory
